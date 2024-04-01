@@ -1,19 +1,14 @@
 # Explainable Neural Networks for Time Series Forecasting
 
 ## Citation
-Will be added
-<!-- ```
-@article{ozyegen2022evaluation,
-  title={Evaluation of interpretability methods for multivariate time series forecasting},
-  author={Ozyegen, Ozan and Ilic, Igor and Cevik, Mucahit},
-  journal={Applied Intelligence},
-  volume={52},
-  number={5},
-  pages={4727--4743},
-  year={2022},
-  publisher={Springer}
+[SSRN - DNNLITS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4179881)
+```
+@article{ozyegendnnlits,
+  title={Dnnlits: Deep Neural Networks for Locally Interpretable Time Series Forecasting},
+  author={Ozyegen, Ozan and Cevik, Mucahit and Basar, Ayse},
+  journal={Available at SSRN 4179881}
 }
-``` -->
+``` 
 
 ### Experiments
 - Train single model
